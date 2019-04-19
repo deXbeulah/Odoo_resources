@@ -1,5 +1,5 @@
 # Odoo resources
-This is a repository for learning, and understanding [Odoo](https://www.odoo.com/), the all-in-one business software.
+This is a repository of resources(books, videos, courses, blogs) for learning, and understanding [Odoo](https://www.odoo.com/), the all-in-one business software.
 
 ## Books
 ### Non-free books:
