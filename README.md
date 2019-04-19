@@ -3,7 +3,7 @@ This is a repository for learning, and understanding [Odoo](https://www.odoo.com
 
 ## Books
 ### Non-free books:
-1. [Odoo Development Cookbook(https://www.amazon.com/Odoo-Development-Cookbook-Holger-Brunn/dp/178588364X)
+1. [Odoo Development Cookbook](https://www.amazon.com/Odoo-Development-Cookbook-Holger-Brunn/dp/178588364X)
 2. [Odoo 11 Development](https://www.amazon.com/Odoo-Development-Cookbook-enterprise-applications/dp/1788471814/ref=dp_ob_title_bk)
 
 ### Free books:
